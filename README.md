@@ -4,7 +4,7 @@ This web application that uses ejs templating for front-end and uses Node.js and
 
 Body-parser npm package is used to access the form body values from the ejs template to create a new item. Then I used data.js which has two methods inside which are used to generate the current formatted date and day.
 
-The database is currently connected to localhost:27017 but it can be connected anywhere as wished. The css used to style is stored inside the public directory to serve up static assets.
+The database is currently connected to localhost:3000 but it can be connected anywhere as wished. The css used to style is stored inside the public directory to serve up static assets.
 
 ## HOW TO RUN: 
 You can either download the files, and then run "npm install" inside the installation directory to install all the npm packages used within the application and then open a new terminal window and run the MongoShell command "mongod" and then inside the first window run the command "node app.js" to run the app. 
