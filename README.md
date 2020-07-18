@@ -9,7 +9,7 @@ The database is currently connected to localhost:27017 but it can be connected a
 ## HOW TO RUN: 
 You can either download the files, and then run "npm install" inside the installation directory to install all the npm packages used within the application and then open a new terminal window and run the MongoShell command "mongod" and then inside the first window run the command "node app.js" to run the app. 
 
-## HERE'S HOW IT LOOKS:- 
+### HERE'S HOW IT LOOKS:- 
 <img width="1440" alt="Screenshot 2020-07-18 at 2 35 48 PM" src="https://user-images.githubusercontent.com/65245684/87850160-b8c59080-c90b-11ea-945d-3f913929fdc0.png">
 
 
